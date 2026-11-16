@@ -1,0 +1,7 @@
+condition,variant,requests,successes,duration_s
+C1,http_keep,100,100,105.48841
+C2,http_keep,100,100,125.867041
+C3,http_keep,100,100,115.821493
+C4,http_keep,100,100,128.231869
+C5,http_keep,100,100,161.263532
+C6,http_keep,100,100,287.874374

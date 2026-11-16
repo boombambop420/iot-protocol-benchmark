@@ -1,0 +1,3 @@
+condition,variant,requests,successes,duration_s
+C4,coap_con,100,100,119.859703
+C4,coap_non,100,94,161.003379

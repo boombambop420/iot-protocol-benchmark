@@ -1,0 +1,8 @@
+condition,variant,requests,successes,duration_s
+C6,http_new,100,99,345.329905
+C6,http_keep,100,98,347.080419
+C6,mqtt0,100,100,198.017178
+C6,mqtt1,100,93,315.982742
+C6,mqtt2,100,40,620.898383
+C6,coap_con,100,99,221.453465
+C6,coap_non,100,80,332.95261

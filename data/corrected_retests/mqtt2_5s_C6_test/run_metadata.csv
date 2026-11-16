@@ -1,0 +1,2 @@
+condition,variant,requests,successes,duration_s
+C6,mqtt2,100,85,419.275875

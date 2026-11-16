@@ -1,0 +1,321 @@
+C1: baseline network
+
+=== C1: http_new ===
+Starting http_new with 2 requests
+0,46510,1
+1,39859,1
+DONE
+Saved results/full_pilot/http_new_C1.csv | Success: 2/2
+
+=== C1: http_keep ===
+Starting http_keep with 2 requests
+0,42271,1
+1,41838,1
+DONE
+Saved results/full_pilot/http_keep_C1.csv | Success: 2/2
+
+=== C1: mqtt0 ===
+I (1765969) IOT_BENCH: MQTT connected
+Starting mqtt0 with 2 requests
+0,13791,1
+1,13345,1
+DONE
+Saved results/full_pilot/mqtt0_C1.csv | Success: 2/2
+
+=== C1: mqtt1 ===
+I (1775109) IOT_BENCH: MQTT connected
+Starting mqtt1 with 2 requests
+0,234180,1
+1,228457,1
+DONE
+Saved results/full_pilot/mqtt1_C1.csv | Success: 2/2
+
+=== C1: mqtt2 ===
+I (1784699) IOT_BENCH: MQTT connected
+Starting mqtt2 with 2 requests
+0,227576,1
+1,250774,1
+DONE
+Saved results/full_pilot/mqtt2_C1.csv | Success: 2/2
+
+=== C1: coap_con ===
+Starting coap_con with 2 requests
+0,14514,1
+1,12986,1
+DONE
+Saved results/full_pilot/coap_con_C1.csv | Success: 2/2
+
+=== C1: coap_non ===
+Starting coap_non with 2 requests
+0,14922,1
+1,10147,1
+DONE
+Saved results/full_pilot/coap_non_C1.csv | Success: 2/2
+C2: delay=50ms, loss=0%
+
+=== C2: http_new ===
+Starting http_new with 2 requests
+0,360005,1
+1,342678,1
+DONE
+Saved results/full_pilot/http_new_C2.csv | Success: 2/2
+
+=== C2: http_keep ===
+Starting http_keep with 2 requests
+0,343988,1
+1,353829,1
+DONE
+Saved results/full_pilot/http_keep_C2.csv | Success: 2/2
+
+=== C2: mqtt0 ===
+I (1834459) IOT_BENCH: MQTT connected
+Starting mqtt0 with 2 requests
+0,121752,1
+1,137780,1
+DONE
+Saved results/full_pilot/mqtt0_C2.csv | Success: 2/2
+
+=== C2: mqtt1 ===
+I (1844159) IOT_BENCH: MQTT connected
+Starting mqtt1 with 2 requests
+0,325309,1
+1,230728,1
+DONE
+Saved results/full_pilot/mqtt1_C2.csv | Success: 2/2
+
+=== C2: mqtt2 ===
+I (1854179) IOT_BENCH: MQTT connected
+Starting mqtt2 with 2 requests
+0,582281,1
+1,491336,1
+DONE
+Saved results/full_pilot/mqtt2_C2.csv | Success: 2/2
+
+=== C2: coap_con ===
+Starting coap_con with 2 requests
+0,117147,1
+1,107866,1
+DONE
+Saved results/full_pilot/coap_con_C2.csv | Success: 2/2
+
+=== C2: coap_non ===
+Starting coap_non with 2 requests
+0,105241,1
+1,100919,1
+DONE
+Saved results/full_pilot/coap_non_C2.csv | Success: 2/2
+C3: delay=0ms, loss=2%
+
+=== C3: http_new ===
+Starting http_new with 2 requests
+0,37389,1
+1,47188,1
+DONE
+Saved results/full_pilot/http_new_C3.csv | Success: 2/2
+
+=== C3: http_keep ===
+Starting http_keep with 2 requests
+0,261251,1
+1,36352,1
+DONE
+Saved results/full_pilot/http_keep_C3.csv | Success: 2/2
+
+=== C3: mqtt0 ===
+I (1903869) IOT_BENCH: MQTT connected
+Starting mqtt0 with 2 requests
+0,11249,1
+1,11503,1
+DONE
+Saved results/full_pilot/mqtt0_C3.csv | Success: 2/2
+
+=== C3: mqtt1 ===
+I (1913029) IOT_BENCH: MQTT connected
+Starting mqtt1 with 2 requests
+0,1232394,1
+1,227363,1
+DONE
+Saved results/full_pilot/mqtt1_C3.csv | Success: 2/2
+
+=== C3: mqtt2 ===
+I (1923619) IOT_BENCH: MQTT connected
+Starting mqtt2 with 2 requests
+0,136854,1
+1,250594,1
+DONE
+Saved results/full_pilot/mqtt2_C3.csv | Success: 2/2
+
+=== C3: coap_con ===
+Starting coap_con with 2 requests
+0,13565,1
+1,9166,1
+DONE
+Saved results/full_pilot/coap_con_C3.csv | Success: 2/2
+
+=== C3: coap_non ===
+Starting coap_non with 2 requests
+0,9348,1
+1,11414,1
+DONE
+Saved results/full_pilot/coap_non_C3.csv | Success: 2/2
+C4: delay=0ms, loss=5%
+
+=== C4: http_new ===
+Starting http_new with 2 requests
+0,48984,1
+1,40941,1
+DONE
+Saved results/full_pilot/http_new_C4.csv | Success: 2/2
+
+=== C4: http_keep ===
+Starting http_keep with 2 requests
+0,1083219,1
+1,38830,1
+DONE
+Saved results/full_pilot/http_keep_C4.csv | Success: 2/2
+
+=== C4: mqtt0 ===
+I (1972919) IOT_BENCH: MQTT connected
+Starting mqtt0 with 2 requests
+0,11294,1
+1,11859,1
+DONE
+Saved results/full_pilot/mqtt0_C4.csv | Success: 2/2
+
+=== C4: mqtt1 ===
+I (1982079) IOT_BENCH: MQTT connected
+Starting mqtt1 with 2 requests
+0,170633,1
+1,717514,1
+DONE
+Saved results/full_pilot/mqtt1_C4.csv | Success: 2/2
+
+=== C4: mqtt2 ===
+I (1992089) IOT_BENCH: MQTT connected
+Starting mqtt2 with 2 requests
+0,159907,1
+1,253535,1
+DONE
+Saved results/full_pilot/mqtt2_C4.csv | Success: 2/2
+
+=== C4: coap_con ===
+Starting coap_con with 2 requests
+0,13747,1
+1,11749,1
+DONE
+Saved results/full_pilot/coap_con_C4.csv | Success: 2/2
+
+=== C4: coap_non ===
+Starting coap_non with 2 requests
+0,14431,1
+1,14511,1
+DONE
+Saved results/full_pilot/coap_non_C4.csv | Success: 2/2
+C5: delay=50ms, loss=5%
+
+=== C5: http_new ===
+Starting http_new with 2 requests
+0,1480349,1
+1,324498,1
+DONE
+Saved results/full_pilot/http_new_C5.csv | Success: 2/2
+
+=== C5: http_keep ===
+Starting http_keep with 2 requests
+0,1618170,1
+1,3380231,1
+DONE
+Saved results/full_pilot/http_keep_C5.csv | Success: 2/2
+
+=== C5: mqtt0 ===
+I (2047209) IOT_BENCH: MQTT connected
+Starting mqtt0 with 2 requests
+0,105907,1
+1,112168,1
+DONE
+Saved results/full_pilot/mqtt0_C5.csv | Success: 2/2
+
+=== C5: mqtt1 ===
+I (2056849) IOT_BENCH: MQTT connected
+Starting mqtt1 with 2 requests
+0,412705,1
+1,255824,1
+DONE
+Saved results/full_pilot/mqtt1_C5.csv | Success: 2/2
+
+=== C5: mqtt2 ===
+I (2066949) IOT_BENCH: MQTT connected
+Starting mqtt2 with 2 requests
+0,550035,1
+1,481300,1
+DONE
+Saved results/full_pilot/mqtt2_C5.csv | Success: 2/2
+
+=== C5: coap_con ===
+Starting coap_con with 2 requests
+0,116072,1
+1,2749627,1
+DONE
+Saved results/full_pilot/coap_con_C5.csv | Success: 2/2
+
+=== C5: coap_non ===
+Starting coap_non with 2 requests
+0,100604,1
+1,116076,1
+DONE
+Saved results/full_pilot/coap_non_C5.csv | Success: 2/2
+C6: delay=200ms, loss=10%
+
+=== C6: http_new ===
+Starting http_new with 2 requests
+0,1348340,1
+1,1274454,1
+DONE
+Saved results/full_pilot/http_new_C6.csv | Success: 2/2
+
+=== C6: http_keep ===
+Starting http_keep with 2 requests
+0,1305168,1
+1,1188324,1
+DONE
+Saved results/full_pilot/http_keep_C6.csv | Success: 2/2
+
+=== C6: mqtt0 ===
+I (2124899) IOT_BENCH: MQTT connected
+Starting mqtt0 with 2 requests
+0,463609,1
+1,405461,1
+DONE
+Saved results/full_pilot/mqtt0_C6.csv | Success: 2/2
+
+=== C6: mqtt1 ===
+I (2141149) IOT_BENCH: MQTT connected
+Starting mqtt1 with 2 requests
+0,1909572,1
+1,2510190,1
+DONE
+Saved results/full_pilot/mqtt1_C6.csv | Success: 2/2
+
+=== C6: mqtt2 ===
+I (2157399) IOT_BENCH: MQTT connected
+Starting mqtt2 with 2 requests
+0,3598734,1
+1,4393897,1
+DONE
+Saved results/full_pilot/mqtt2_C6.csv | Success: 2/2
+
+=== C6: coap_con ===
+Starting coap_con with 2 requests
+0,414253,1
+1,349764,1
+DONE
+Saved results/full_pilot/coap_con_C6.csv | Success: 2/2
+
+=== C6: coap_non ===
+Starting coap_non with 2 requests
+0,433846,1
+1,404226,1
+DONE
+Saved results/full_pilot/coap_non_C6.csv | Success: 2/2
+
+All benchmark runs completed!
+Network restored to normal.

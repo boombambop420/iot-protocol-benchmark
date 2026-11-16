@@ -1,0 +1,8 @@
+condition,variant,requests,successes,duration_s
+C1,http_new,2,2,2.094576
+C1,http_keep,2,2,2.096711
+C1,mqtt0,2,2,2.067614
+C1,mqtt1,2,2,2.528239
+C1,mqtt2,2,2,2.530332
+C1,coap_con,2,2,2.037937
+C1,coap_non,2,2,2.028729
