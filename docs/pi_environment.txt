@@ -1,0 +1,51 @@
+========== Raspberry Pi 192.168.20.1 ==========
+Operating system:
+PRETTY_NAME="Debian GNU/Linux 11 (bullseye)"
+Kernel:
+5.15.61-v8+
+Python:
+Python 3.9.2
+Network interfaces:
+wlan0            UP             10.42.0.1/24 
+eth0             UP             192.168.20.1/24 
+Mosquitto package:
+Network impairment configuration:
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+qdisc mq 0: root 
+qdisc pfifo_fast 0: parent :5 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+qdisc pfifo_fast 0: parent :4 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+qdisc pfifo_fast 0: parent :3 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+qdisc pfifo_fast 0: parent :2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+qdisc pfifo_fast 0: parent :1 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+Python dependencies:
+Name: paho-mqtt
+Version: 2.1.0
+========== Raspberry Pi 192.168.20.2 ==========
+Operating system:
+PRETTY_NAME="Debian GNU/Linux 11 (bullseye)"
+Kernel:
+5.15.61-v8+
+Python:
+Python 3.9.2
+Network interfaces:
+wlan0            UP             172.20.10.8/28 
+eth0             UP             192.168.20.2/24 
+Mosquitto package:
+mosquitto	2.0.11-1+deb11u1
+Network impairment configuration:
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+qdisc mq 0: root 
+qdisc pfifo_fast 0: parent :5 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+qdisc pfifo_fast 0: parent :4 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+qdisc pfifo_fast 0: parent :3 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+qdisc pfifo_fast 0: parent :2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+qdisc pfifo_fast 0: parent :1 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+Python dependencies:
+Name: aiocoap
+Version: 0.4.7
+Name: waitress
+Version: 3.0.2
+Name: flask
+Version: 3.1.3
+Name: paho-mqtt
+Version: 2.1.0

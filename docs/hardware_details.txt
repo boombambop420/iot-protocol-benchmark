@@ -1,0 +1,6 @@
+Pi1: Raspberry Pi 4 Model B Rev 1.5
+Pi2: Raspberry Pi 4 Model B Rev 1.5
+Pi1 Wi-Fi access point configuration:
+ssid=IoTLab
+hw_mode=g
+channel=6

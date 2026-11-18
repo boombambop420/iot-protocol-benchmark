@@ -1,0 +1,10 @@
+=== IP ROUTES ===
+10.42.0.0/24 dev wlan0 proto dhcp scope link src 10.42.0.1 metric 303 
+192.168.20.0/24 dev eth0 proto dhcp scope link src 192.168.20.1 metric 202 
+=== IP FORWARDING ===
+1
+=== FIREWALL RULES ===
+=== NETWORK SERVICES ===
+enabled
+enabled
+=== DHCP CONFIGURATION ===

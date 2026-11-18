@@ -1,0 +1,527 @@
+1793582137: mosquitto version 2.0.11 starting
+1793582137: Config loaded from /etc/mosquitto/mosquitto.conf.
+1793582137: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1793582137: Create a configuration file which defines a listener to allow remote access.
+1793582137: For more details see https://mosquitto.org/documentation/authentication-methods/
+1793582137: Opening ipv4 listen socket on port 1883.
+1793582137: Opening ipv6 listen socket on port 1883.
+1793582137: mosquitto version 2.0.11 running
+1793582270: mosquitto version 2.0.11 terminating
+1793582270: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1793582278: mosquitto version 2.0.11 starting
+1793582278: Config loaded from /etc/mosquitto/mosquitto.conf.
+1793582278: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1793582278: Create a configuration file which defines a listener to allow remote access.
+1793582278: For more details see https://mosquitto.org/documentation/authentication-methods/
+1793582278: Opening ipv4 listen socket on port 1883.
+1793582278: Opening ipv6 listen socket on port 1883.
+1793582278: mosquitto version 2.0.11 running
+1793582277: mosquitto version 2.0.11 starting
+1793582277: Config loaded from /etc/mosquitto/mosquitto.conf.
+1793582277: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1793582277: Create a configuration file which defines a listener to allow remote access.
+1793582277: For more details see https://mosquitto.org/documentation/authentication-methods/
+1793582277: Opening ipv4 listen socket on port 1883.
+1793582277: Opening ipv6 listen socket on port 1883.
+1793582277: mosquitto version 2.0.11 running
+1793584078: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1793585879: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1793587680: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1793589481: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1793591282: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1793593083: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1793594884: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1793596685: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1793598486: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794091896: mosquitto version 2.0.11 terminating
+1794091896: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794091896: mosquitto version 2.0.11 starting
+1794091896: Config loaded from /etc/mosquitto/mosquitto.conf.
+1794091896: Opening ipv4 listen socket on port 1883.
+1794091896: Opening ipv6 listen socket on port 1883.
+1794091896: mosquitto version 2.0.11 running
+1794092166: New connection from ::1:49430 on port 1883.
+1794092166: New client connected from ::1:49430 as auto-9F18EECC-FA69-C0FA-1A9F-2F72C6D798CC (p2, c1, k60).
+1794092234: New connection from 172.20.10.6:58565 on port 1883.
+1794092234: New client connected from 172.20.10.6:58565 as auto-B02EE143-01AC-8352-F42A-C97348D14FE6 (p2, c1, k60).
+1794092234: Client auto-B02EE143-01AC-8352-F42A-C97348D14FE6 disconnected.
+1794092508: Client auto-9F18EECC-FA69-C0FA-1A9F-2F72C6D798CC disconnected.
+1794092721: New connection from ::1:40851 on port 1883.
+1794092721: New client connected from ::1:40851 as auto-83478725-349D-150E-949D-E36947B6D5AC (p2, c1, k60).
+1794092816: New connection from 172.20.10.6:51745 on port 1883.
+1794092816: New client connected from 172.20.10.6:51745 as auto-3EC269CF-EFEC-5E15-8C1A-B07BEAD5FBAE (p2, c1, k60).
+1794092820: Client auto-3EC269CF-EFEC-5E15-8C1A-B07BEAD5FBAE disconnected.
+1794092868: New connection from 172.20.10.6:58165 on port 1883.
+1794092868: New client connected from 172.20.10.6:58165 as auto-4C5E23E4-D586-C8B9-DF04-DF7DDCCA15DE (p2, c1, k60).
+1794092872: Client auto-4C5E23E4-D586-C8B9-DF04-DF7DDCCA15DE disconnected.
+1794092957: New connection from 172.20.10.6:40845 on port 1883.
+1794092957: New client connected from 172.20.10.6:40845 as auto-A07E4CD1-2346-5B2D-839C-01F608748128 (p2, c1, k60).
+1794092961: Client auto-A07E4CD1-2346-5B2D-839C-01F608748128 disconnected.
+1794092999: Client auto-83478725-349D-150E-949D-E36947B6D5AC closed its connection.
+1794093032: New connection from ::1:35399 on port 1883.
+1794093032: New client connected from ::1:35399 as auto-4D3DFE7E-9A66-958A-1284-C4C08960EDBA (p2, c1, k60).
+1794093055: New connection from 172.20.10.6:48887 on port 1883.
+1794093055: New client connected from 172.20.10.6:48887 as auto-44302533-BAC1-B465-D963-1C60BCD4120C (p2, c1, k60).
+1794093060: Client auto-44302533-BAC1-B465-D963-1C60BCD4120C disconnected.
+1794093697: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794095498: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794096500: New connection from 172.20.10.9:61617 on port 1883.
+1794096500: New client connected from 172.20.10.9:61617 as ESP32_7d4660 (p2, c1, k120).
+1794096563: New connection from ::1:33832 on port 1883.
+1794096563: New client connected from ::1:33832 as auto-6F3B41FF-7B04-B626-7F10-9D1CC9A0E3BB (p2, c1, k60).
+1794096614: New connection from 172.20.10.9:50106 on port 1883.
+1794096614: Client ESP32_7d4660 already connected, closing old connection.
+1794096614: New client connected from 172.20.10.9:50106 as ESP32_7d4660 (p2, c1, k120).
+1794096660: Client auto-6F3B41FF-7B04-B626-7F10-9D1CC9A0E3BB disconnected.
+1794096668: New connection from ::1:46627 on port 1883.
+1794096668: New client connected from ::1:46627 as auto-BF970F36-4FAB-42D6-0759-71B2EC74E750 (p2, c1, k60).
+1794097246: New connection from 172.20.10.9:56273 on port 1883.
+1794097246: Client ESP32_7d4660 already connected, closing old connection.
+1794097246: New client connected from 172.20.10.9:56273 as ESP32_7d4660 (p2, c1, k120).
+1794097299: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794097573: New connection from 172.20.10.9:58322 on port 1883.
+1794097573: Client ESP32_7d4660 already connected, closing old connection.
+1794097573: New client connected from 172.20.10.9:58322 as ESP32_7d4660 (p2, c1, k120).
+1794097658: New connection from 172.20.10.9:52729 on port 1883.
+1794097658: Client ESP32_7d4660 already connected, closing old connection.
+1794097658: New client connected from 172.20.10.9:52729 as ESP32_7d4660 (p2, c1, k120).
+1794097812: New connection from 172.20.10.9:55194 on port 1883.
+1794097812: Client ESP32_7d4660 already connected, closing old connection.
+1794097812: New client connected from 172.20.10.9:55194 as ESP32_7d4660 (p2, c1, k120).
+1794098064: New connection from 172.20.10.9:49186 on port 1883.
+1794098064: Client ESP32_7d4660 already connected, closing old connection.
+1794098064: New client connected from 172.20.10.9:49186 as ESP32_7d4660 (p2, c1, k120).
+1794098115: New connection from 172.20.10.9:56378 on port 1883.
+1794098115: Client ESP32_7d4660 already connected, closing old connection.
+1794098115: New client connected from 172.20.10.9:56378 as ESP32_7d4660 (p2, c1, k120).
+1794098162: New connection from 172.20.10.9:62752 on port 1883.
+1794098162: Client ESP32_7d4660 already connected, closing old connection.
+1794098162: New client connected from 172.20.10.9:62752 as ESP32_7d4660 (p2, c1, k120).
+1794098385: Client auto-BF970F36-4FAB-42D6-0759-71B2EC74E750 closed its connection.
+1794098430: New connection from ::1:52857 on port 1883.
+1794098430: New client connected from ::1:52857 as auto-FEA32CD3-EE51-E406-E025-1E7D3C7AF901 (p2, c1, k60).
+1794098651: New connection from 172.20.10.9:51613 on port 1883.
+1794098651: Client ESP32_7d4660 already connected, closing old connection.
+1794098651: New client connected from 172.20.10.9:51613 as ESP32_7d4660 (p2, c1, k120).
+1794098865: Client auto-FEA32CD3-EE51-E406-E025-1E7D3C7AF901 closed its connection.
+1794098977: New connection from ::1:47461 on port 1883.
+1794098977: New client connected from ::1:47461 as auto-0546B1E8-920F-43A0-0763-4654F474EE39 (p2, c1, k60).
+1794099100: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794099174: New connection from 172.20.10.9:51614 on port 1883.
+1794099174: Client ESP32_7d4660 already connected, closing old connection.
+1794099174: New client connected from 172.20.10.9:51614 as ESP32_7d4660 (p2, c1, k120).
+1794099221: New connection from 172.20.10.9:52655 on port 1883.
+1794099221: Client ESP32_7d4660 already connected, closing old connection.
+1794099221: New client connected from 172.20.10.9:52655 as ESP32_7d4660 (p2, c1, k120).
+1794099770: New connection from 172.20.10.9:65432 on port 1883.
+1794099770: Client ESP32_7d4660 already connected, closing old connection.
+1794099770: New client connected from 172.20.10.9:65432 as ESP32_7d4660 (p2, c1, k120).
+1794100029: Client auto-0546B1E8-920F-43A0-0763-4654F474EE39 closed its connection.
+1794100098: New connection from ::1:50025 on port 1883.
+1794100098: New client connected from ::1:50025 as auto-034BECB0-2146-391D-E2DE-64B0E5EC0C1B (p2, c1, k60).
+1794100197: Client auto-034BECB0-2146-391D-E2DE-64B0E5EC0C1B closed its connection.
+1794100276: New connection from ::1:59919 on port 1883.
+1794100276: New client connected from ::1:59919 as auto-B4D49CBC-D1BB-11AC-71DF-6C67AD89D6B0 (p2, c1, k60).
+1794100402: New connection from 172.20.10.9:54213 on port 1883.
+1794100402: Client ESP32_7d4660 already connected, closing old connection.
+1794100402: New client connected from 172.20.10.9:54213 as ESP32_7d4660 (p2, c1, k120).
+1794100487: Client auto-4D3DFE7E-9A66-958A-1284-C4C08960EDBA closed its connection.
+1794100586: Client auto-B4D49CBC-D1BB-11AC-71DF-6C67AD89D6B0 closed its connection.
+1794100750: New connection from ::1:54563 on port 1883.
+1794100750: New client connected from ::1:54563 as auto-77F84AFD-2F46-02ED-710D-951352ADA186 (p2, c1, k60).
+1794100783: New connection from 172.20.10.9:62512 on port 1883.
+1794100783: Client ESP32_7d4660 already connected, closing old connection.
+1794100783: New client connected from 172.20.10.9:62512 as ESP32_7d4660 (p2, c1, k120).
+1794100902: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794100983: Client auto-77F84AFD-2F46-02ED-710D-951352ADA186 disconnected.
+1794101575: Client ESP32_7d4660 has exceeded timeout, disconnecting.
+1794102703: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794104504: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794106305: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794108106: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794109907: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794111708: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794113508: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794115309: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794116116: New connection from 192.168.20.2:60236 on port 1883.
+1794116116: New client connected from 192.168.20.2:60236 as auto-D93241B8-3E6E-84C7-400D-112D69D9E36D (p2, c1, k60).
+1794116862: Client auto-D93241B8-3E6E-84C7-400D-112D69D9E36D disconnected.
+1794116867: New connection from 192.168.20.2:48380 on port 1883.
+1794116867: New client connected from 192.168.20.2:48380 as auto-DC99653C-8316-8237-2093-F5CD5DC6F8A1 (p2, c1, k60).
+1794116893: New connection from 192.168.20.1:35264 on port 1883.
+1794116893: New client connected from 192.168.20.1:35264 as auto-05433269-7AD5-40CA-2608-ADE28CD22F19 (p2, c1, k60).
+1794116893: Client auto-05433269-7AD5-40CA-2608-ADE28CD22F19 disconnected.
+1794116931: Client auto-DC99653C-8316-8237-2093-F5CD5DC6F8A1 disconnected.
+1794116967: New connection from 192.168.20.2:58310 on port 1883.
+1794116967: New client connected from 192.168.20.2:58310 as auto-811C8C0C-5538-ED23-413D-34EFA59AA5B1 (p2, c1, k60).
+1794117110: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794117217: New connection from 10.42.0.116:50464 on port 1883.
+1794117217: New client connected from 10.42.0.116:50464 as ESP32_7d4660 (p2, c1, k120).
+1794117278: Client auto-811C8C0C-5538-ED23-413D-34EFA59AA5B1 disconnected.
+1794117685: New connection from ::1:34869 on port 1883.
+1794117685: New client connected from ::1:34869 as auto-FFD12D3A-D5C3-85F5-B117-FA53C87A85F2 (p2, c1, k60).
+1794118714: Client auto-FFD12D3A-D5C3-85F5-B117-FA53C87A85F2 disconnected.
+1794118822: New connection from ::1:43049 on port 1883.
+1794118822: New client connected from ::1:43049 as auto-18E9AE71-BFDA-D0D3-2D21-8811933B668B (p2, c1, k60).
+1794118911: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794120712: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794120948: Client ESP32_7d4660 has exceeded timeout, disconnecting.
+1794121728: Client auto-18E9AE71-BFDA-D0D3-2D21-8811933B668B closed its connection.
+1794121763: New connection from ::1:52033 on port 1883.
+1794121763: New client connected from ::1:52033 as auto-0BFFB48D-6A6D-D120-5567-C9A052C48CFF (p2, c1, k60).
+1794121818: New connection from 10.42.0.116:60518 on port 1883.
+1794121818: New client connected from 10.42.0.116:60518 as ESP32_7d4660 (p2, c1, k120).
+1794121823: Client ESP32_7d4660 disconnected.
+1794121856: New connection from 10.42.0.116:60519 on port 1883.
+1794121856: New client connected from 10.42.0.116:60519 as ESP32_7d4660 (p2, c1, k120).
+1794121862: Client ESP32_7d4660 disconnected.
+1794121871: New connection from 10.42.0.116:60520 on port 1883.
+1794121871: New client connected from 10.42.0.116:60520 as ESP32_7d4660 (p2, c1, k120).
+1794121877: Client ESP32_7d4660 disconnected.
+1794122513: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794123991: Client auto-0BFFB48D-6A6D-D120-5567-C9A052C48CFF closed its connection.
+1794123991: mosquitto version 2.0.11 terminating
+1794123991: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794124006: mosquitto version 2.0.11 starting
+1794124006: Config loaded from /etc/mosquitto/mosquitto.conf.
+1794124006: Opening ipv4 listen socket on port 1883.
+1794124006: Opening ipv6 listen socket on port 1883.
+1794124006: mosquitto version 2.0.11 running
+1794163563: New connection from ::1:56093 on port 1883.
+1794163563: New client connected from ::1:56093 as auto-AEC70087-DCFC-78D5-67AE-98ABAE570C52 (p2, c1, k60).
+1794164494: New connection from 10.42.0.116:65343 on port 1883.
+1794164494: New client connected from 10.42.0.116:65343 as ESP32_7d4660 (p2, c1, k120).
+1794164499: Client ESP32_7d4660 disconnected.
+1794164539: New connection from 10.42.0.116:65344 on port 1883.
+1794164539: New client connected from 10.42.0.116:65344 as ESP32_7d4660 (p2, c1, k120).
+1794164544: Client ESP32_7d4660 disconnected.
+1794164573: New connection from 10.42.0.116:65345 on port 1883.
+1794164573: New client connected from 10.42.0.116:65345 as ESP32_7d4660 (p2, c1, k120).
+1794164578: Client ESP32_7d4660 disconnected.
+1794164583: New connection from 10.42.0.116:65346 on port 1883.
+1794164583: New client connected from 10.42.0.116:65346 as ESP32_7d4660 (p2, c1, k120).
+1794164589: Client ESP32_7d4660 disconnected.
+1794164594: New connection from 10.42.0.116:65347 on port 1883.
+1794164594: New client connected from 10.42.0.116:65347 as ESP32_7d4660 (p2, c1, k120).
+1794164600: Client ESP32_7d4660 disconnected.
+1794164663: New connection from 10.42.0.116:65358 on port 1883.
+1794164663: New client connected from 10.42.0.116:65358 as ESP32_7d4660 (p2, c1, k120).
+1794164668: Client ESP32_7d4660 disconnected.
+1794164673: New connection from 10.42.0.116:65359 on port 1883.
+1794164673: New client connected from 10.42.0.116:65359 as ESP32_7d4660 (p2, c1, k120).
+1794164679: Client ESP32_7d4660 disconnected.
+1794164684: New connection from 10.42.0.116:65360 on port 1883.
+1794164684: New client connected from 10.42.0.116:65360 as ESP32_7d4660 (p2, c1, k120).
+1794164690: Client ESP32_7d4660 disconnected.
+1794165063: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794165394: New connection from 10.42.0.116:60858 on port 1883.
+1794165394: New client connected from 10.42.0.116:60858 as ESP32_7d4660 (p2, c1, k120).
+1794165399: Client ESP32_7d4660 disconnected.
+1794165578: New connection from 10.42.0.116:60859 on port 1883.
+1794165578: New client connected from 10.42.0.116:60859 as ESP32_7d4660 (p2, c1, k120).
+1794165580: Client ESP32_7d4660 disconnected.
+1794165588: New connection from 10.42.0.116:60860 on port 1883.
+1794165588: New client connected from 10.42.0.116:60860 as ESP32_7d4660 (p2, c1, k120).
+1794165590: Client ESP32_7d4660 disconnected.
+1794165758: New connection from 10.42.0.116:60871 on port 1883.
+1794165758: New client connected from 10.42.0.116:60871 as ESP32_7d4660 (p2, c1, k120).
+1794165760: Client ESP32_7d4660 disconnected.
+1794165857: New connection from 10.42.0.116:60874 on port 1883.
+1794165857: New client connected from 10.42.0.116:60874 as ESP32_7d4660 (p2, c1, k120).
+1794165859: Client ESP32_7d4660 disconnected.
+1794165960: New connection from 10.42.0.116:60883 on port 1883.
+1794165960: New client connected from 10.42.0.116:60883 as ESP32_7d4660 (p2, c1, k120).
+1794165962: Client ESP32_7d4660 disconnected.
+1794166864: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794168112: New connection from 10.42.0.116:53771 on port 1883.
+1794168112: New client connected from 10.42.0.116:53771 as ESP32_7d4660 (p2, c1, k120).
+1794168114: Client ESP32_7d4660 disconnected.
+1794168163: New connection from 10.42.0.116:53776 on port 1883.
+1794168163: New client connected from 10.42.0.116:53776 as ESP32_7d4660 (p2, c1, k120).
+1794168165: Client ESP32_7d4660 disconnected.
+1794168168: New connection from 10.42.0.116:53777 on port 1883.
+1794168168: New client connected from 10.42.0.116:53777 as ESP32_7d4660 (p2, c1, k120).
+1794168171: Client ESP32_7d4660 disconnected.
+1794168174: New connection from 10.42.0.116:53778 on port 1883.
+1794168174: New client connected from 10.42.0.116:53778 as ESP32_7d4660 (p2, c1, k120).
+1794168176: Client ESP32_7d4660 disconnected.
+1794168665: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794169093: New connection from 10.42.0.116:53785 on port 1883.
+1794169093: New client connected from 10.42.0.116:53785 as ESP32_7d4660 (p2, c1, k120).
+1794169095: Client ESP32_7d4660 disconnected.
+1794169102: New connection from 10.42.0.116:53786 on port 1883.
+1794169102: New client connected from 10.42.0.116:53786 as ESP32_7d4660 (p2, c1, k120).
+1794169105: Client ESP32_7d4660 disconnected.
+1794169112: New connection from 10.42.0.116:53787 on port 1883.
+1794169112: New client connected from 10.42.0.116:53787 as ESP32_7d4660 (p2, c1, k120).
+1794169114: Client ESP32_7d4660 disconnected.
+1794169396: New connection from 10.42.0.116:53792 on port 1883.
+1794169396: New client connected from 10.42.0.116:53792 as ESP32_7d4660 (p2, c1, k120).
+1794169398: Client ESP32_7d4660 disconnected.
+1794169406: New connection from 10.42.0.116:53793 on port 1883.
+1794169406: New client connected from 10.42.0.116:53793 as ESP32_7d4660 (p2, c1, k120).
+1794169408: Client ESP32_7d4660 disconnected.
+1794169416: New connection from 10.42.0.116:53794 on port 1883.
+1794169416: New client connected from 10.42.0.116:53794 as ESP32_7d4660 (p2, c1, k120).
+1794169419: Client ESP32_7d4660 disconnected.
+1794169658: New connection from 10.42.0.116:53799 on port 1883.
+1794169658: New client connected from 10.42.0.116:53799 as ESP32_7d4660 (p2, c1, k120).
+1794169660: Client ESP32_7d4660 disconnected.
+1794169668: New connection from 10.42.0.116:53800 on port 1883.
+1794169668: New client connected from 10.42.0.116:53800 as ESP32_7d4660 (p2, c1, k120).
+1794169670: Client ESP32_7d4660 disconnected.
+1794169677: New connection from 10.42.0.116:53801 on port 1883.
+1794169677: New client connected from 10.42.0.116:53801 as ESP32_7d4660 (p2, c1, k120).
+1794169680: Client ESP32_7d4660 disconnected.
+1794169727: New connection from 10.42.0.116:53806 on port 1883.
+1794169727: New client connected from 10.42.0.116:53806 as ESP32_7d4660 (p2, c1, k120).
+1794169729: Client ESP32_7d4660 disconnected.
+1794169736: New connection from 10.42.0.116:53807 on port 1883.
+1794169736: New client connected from 10.42.0.116:53807 as ESP32_7d4660 (p2, c1, k120).
+1794169739: Client ESP32_7d4660 disconnected.
+1794169747: New connection from 10.42.0.116:53808 on port 1883.
+1794169747: New client connected from 10.42.0.116:53808 as ESP32_7d4660 (p2, c1, k120).
+1794169750: Client ESP32_7d4660 disconnected.
+1794169796: New connection from 10.42.0.116:53813 on port 1883.
+1794169796: New client connected from 10.42.0.116:53813 as ESP32_7d4660 (p2, c1, k120).
+1794169798: Client ESP32_7d4660 disconnected.
+1794169805: New connection from 10.42.0.116:53814 on port 1883.
+1794169805: New client connected from 10.42.0.116:53814 as ESP32_7d4660 (p2, c1, k120).
+1794169809: Client ESP32_7d4660 disconnected.
+1794169816: New connection from 10.42.0.116:53815 on port 1883.
+1794169816: New client connected from 10.42.0.116:53815 as ESP32_7d4660 (p2, c1, k120).
+1794169818: Client ESP32_7d4660 disconnected.
+1794169865: New connection from 10.42.0.116:53820 on port 1883.
+1794169865: New client connected from 10.42.0.116:53820 as ESP32_7d4660 (p2, c1, k120).
+1794169867: Client ESP32_7d4660 disconnected.
+1794169874: New connection from 10.42.0.116:53821 on port 1883.
+1794169874: New client connected from 10.42.0.116:53821 as ESP32_7d4660 (p2, c1, k120).
+1794169877: Client ESP32_7d4660 disconnected.
+1794169884: New connection from 10.42.0.116:53822 on port 1883.
+1794169884: New client connected from 10.42.0.116:53822 as ESP32_7d4660 (p2, c1, k120).
+1794169887: Client ESP32_7d4660 disconnected.
+1794169940: New connection from 10.42.0.116:53827 on port 1883.
+1794169940: New client connected from 10.42.0.116:53827 as ESP32_7d4660 (p2, c1, k120).
+1794169942: Client ESP32_7d4660 disconnected.
+1794169949: New connection from 10.42.0.116:53828 on port 1883.
+1794169949: New client connected from 10.42.0.116:53828 as ESP32_7d4660 (p2, c1, k120).
+1794169952: Client ESP32_7d4660 disconnected.
+1794169959: New connection from 10.42.0.116:53829 on port 1883.
+1794169959: New client connected from 10.42.0.116:53829 as ESP32_7d4660 (p2, c1, k120).
+1794169963: Client ESP32_7d4660 disconnected.
+1794170017: New connection from 10.42.0.116:53834 on port 1883.
+1794170017: New client connected from 10.42.0.116:53834 as ESP32_7d4660 (p2, c1, k120).
+1794170021: Client ESP32_7d4660 disconnected.
+1794170029: New connection from 10.42.0.116:53835 on port 1883.
+1794170033: New client connected from 10.42.0.116:53835 as ESP32_7d4660 (p2, c1, k120).
+1794170047: Client ESP32_7d4660 disconnected.
+1794170050: New connection from 10.42.0.116:53836 on port 1883.
+1794170050: New client connected from 10.42.0.116:53836 as ESP32_7d4660 (p2, c1, k120).
+1794170061: Client ESP32_7d4660 closed its connection.
+1794170466: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794170595: New connection from 10.42.0.116:53841 on port 1883.
+1794170595: New client connected from 10.42.0.116:53841 as ESP32_7d4660 (p2, c1, k120).
+1794170597: Client ESP32_7d4660 disconnected.
+1794170604: New connection from 10.42.0.116:53842 on port 1883.
+1794170604: New client connected from 10.42.0.116:53842 as ESP32_7d4660 (p2, c1, k120).
+1794170606: Client ESP32_7d4660 disconnected.
+1794170613: New connection from 10.42.0.116:53843 on port 1883.
+1794170613: New client connected from 10.42.0.116:53843 as ESP32_7d4660 (p2, c1, k120).
+1794170616: Client ESP32_7d4660 disconnected.
+1794170969: New connection from 10.42.0.116:54044 on port 1883.
+1794170969: New client connected from 10.42.0.116:54044 as ESP32_7d4660 (p2, c1, k120).
+1794171070: Client ESP32_7d4660 disconnected.
+1794171078: New connection from 10.42.0.116:54045 on port 1883.
+1794171078: New client connected from 10.42.0.116:54045 as ESP32_7d4660 (p2, c1, k120).
+1794171196: Client ESP32_7d4660 disconnected.
+1794171203: New connection from 10.42.0.116:54046 on port 1883.
+1794171203: New client connected from 10.42.0.116:54046 as ESP32_7d4660 (p2, c1, k120).
+1794171328: Client ESP32_7d4660 disconnected.
+1794171836: New connection from 10.42.0.116:54247 on port 1883.
+1794171836: New client connected from 10.42.0.116:54247 as ESP32_7d4660 (p2, c1, k120).
+1794171948: Client ESP32_7d4660 disconnected.
+1794171955: New connection from 10.42.0.116:54248 on port 1883.
+1794171955: New client connected from 10.42.0.116:54248 as ESP32_7d4660 (p2, c1, k120).
+1794172080: Client ESP32_7d4660 disconnected.
+1794172087: New connection from 10.42.0.116:54249 on port 1883.
+1794172087: New client connected from 10.42.0.116:54249 as ESP32_7d4660 (p2, c1, k120).
+1794172237: Client ESP32_7d4660 disconnected.
+1794172267: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794172735: New connection from 10.42.0.116:54450 on port 1883.
+1794172735: New client connected from 10.42.0.116:54450 as ESP32_7d4660 (p2, c1, k120).
+1794172838: Client ESP32_7d4660 disconnected.
+1794172845: New connection from 10.42.0.116:54451 on port 1883.
+1794172845: New client connected from 10.42.0.116:54451 as ESP32_7d4660 (p2, c1, k120).
+1794172974: Client ESP32_7d4660 disconnected.
+1794172981: New connection from 10.42.0.116:54452 on port 1883.
+1794172981: New client connected from 10.42.0.116:54452 as ESP32_7d4660 (p2, c1, k120).
+1794173046: Client ESP32_7d4660 disconnected due to protocol error.
+1794173061: New connection from 10.42.0.116:54453 on port 1883.
+1794173061: New client connected from 10.42.0.116:54453 as ESP32_7d4660 (p2, c1, k120).
+1794173626: Client ESP32_7d4660 disconnected.
+1794174068: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794174219: New connection from 10.42.0.116:54654 on port 1883.
+1794174219: New client connected from 10.42.0.116:54654 as ESP32_7d4660 (p2, c1, k120).
+1794174327: Client ESP32_7d4660 disconnected.
+1794174334: New connection from 10.42.0.116:54655 on port 1883.
+1794174334: New client connected from 10.42.0.116:54655 as ESP32_7d4660 (p2, c1, k120).
+1794174482: Client ESP32_7d4660 disconnected.
+1794174491: New connection from 10.42.0.116:54656 on port 1883.
+1794174491: New client connected from 10.42.0.116:54656 as ESP32_7d4660 (p2, c1, k120).
+1794174496: Client ESP32_7d4660 disconnected due to protocol error.
+1794174511: New connection from 10.42.0.116:54657 on port 1883.
+1794174511: New client connected from 10.42.0.116:54657 as ESP32_7d4660 (p2, c1, k120).
+1794175581: Client ESP32_7d4660 disconnected.
+1794175869: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794177238: New connection from 10.42.0.116:54525 on port 1883.
+1794177238: New client connected from 10.42.0.116:54525 as ESP32_7d4660 (p2, c1, k120).
+1794177241: Client ESP32_7d4660 disconnected.
+1794177336: New connection from 10.42.0.116:54526 on port 1883.
+1794177336: New client connected from 10.42.0.116:54526 as ESP32_7d4660 (p2, c1, k120).
+1794177363: Client ESP32_7d4660 disconnected.
+1794177670: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794177867: New connection from 10.42.0.116:54627 on port 1883.
+1794177867: New client connected from 10.42.0.116:54627 as ESP32_7d4660 (p2, c1, k120).
+1794177882: Client ESP32_7d4660 disconnected due to protocol error.
+1794177897: New connection from 10.42.0.116:54628 on port 1883.
+1794177897: New client connected from 10.42.0.116:54628 as ESP32_7d4660 (p2, c1, k120).
+1794177995: Client ESP32_7d4660 disconnected due to protocol error.
+1794178010: New connection from 10.42.0.116:54629 on port 1883.
+1794178010: New client connected from 10.42.0.116:54629 as ESP32_7d4660 (p2, c1, k120).
+1794178026: Client ESP32_7d4660 disconnected due to protocol error.
+1794178041: New connection from 10.42.0.116:54630 on port 1883.
+1794178041: New client connected from 10.42.0.116:54630 as ESP32_7d4660 (p2, c1, k120).
+1794178072: Client ESP32_7d4660 disconnected.
+1794179471: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794179889: New connection from 10.42.0.116:54831 on port 1883.
+1794179889: New client connected from 10.42.0.116:54831 as ESP32_7d4660 (p2, c1, k120).
+1794180009: Client ESP32_7d4660 disconnected.
+1794180016: New connection from 10.42.0.116:54832 on port 1883.
+1794180016: New client connected from 10.42.0.116:54832 as ESP32_7d4660 (p2, c1, k120).
+1794180170: Client ESP32_7d4660 disconnected.
+1794180176: New connection from 10.42.0.116:54833 on port 1883.
+1794180176: New client connected from 10.42.0.116:54833 as ESP32_7d4660 (p2, c1, k120).
+1794180191: Client ESP32_7d4660 disconnected due to protocol error.
+1794180206: New connection from 10.42.0.116:54834 on port 1883.
+1794180206: New client connected from 10.42.0.116:54834 as ESP32_7d4660 (p2, c1, k120).
+1794180328: Client ESP32_7d4660 disconnected due to protocol error.
+1794180343: New connection from 10.42.0.116:54835 on port 1883.
+1794180343: New client connected from 10.42.0.116:54835 as ESP32_7d4660 (p2, c1, k120).
+1794180378: Client ESP32_7d4660 disconnected due to protocol error.
+1794180393: New connection from 10.42.0.116:54836 on port 1883.
+1794180393: New client connected from 10.42.0.116:54836 as ESP32_7d4660 (p2, c1, k120).
+1794180401: Client ESP32_7d4660 disconnected.
+1794181272: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794181512: New connection from 10.42.0.116:55036 on port 1883.
+1794181513: New client connected from 10.42.0.116:55036 as ESP32_7d4660 (p2, c1, k120).
+1794181709: Client ESP32_7d4660 disconnected.
+1794181717: New connection from 10.42.0.116:55037 on port 1883.
+1794181717: New client connected from 10.42.0.116:55037 as ESP32_7d4660 (p2, c1, k120).
+1794182032: Client ESP32_7d4660 disconnected.
+1794182040: New connection from 10.42.0.116:55038 on port 1883.
+1794182040: New client connected from 10.42.0.116:55038 as ESP32_7d4660 (p2, c1, k120).
+1794182067: Client ESP32_7d4660 disconnected due to protocol error.
+1794182083: New connection from 10.42.0.116:55039 on port 1883.
+1794182083: New client connected from 10.42.0.116:55039 as ESP32_7d4660 (p2, c1, k120).
+1794182093: Client ESP32_7d4660 disconnected due to protocol error.
+1794182109: New connection from 10.42.0.116:55040 on port 1883.
+1794182109: New client connected from 10.42.0.116:55040 as ESP32_7d4660 (p2, c1, k120).
+1794182113: Client ESP32_7d4660 disconnected due to protocol error.
+1794182131: New connection from 10.42.0.116:55041 on port 1883.
+1794182131: New client connected from 10.42.0.116:55041 as ESP32_7d4660 (p2, c1, k120).
+1794182142: Client ESP32_7d4660 disconnected due to protocol error.
+1794182160: New connection from 10.42.0.116:55042 on port 1883.
+1794182160: New client connected from 10.42.0.116:55042 as ESP32_7d4660 (p2, c1, k120).
+1794182164: Client ESP32_7d4660 disconnected due to protocol error.
+1794182180: New connection from 10.42.0.116:55043 on port 1883.
+1794182180: New client connected from 10.42.0.116:55043 as ESP32_7d4660 (p2, c1, k120).
+1794182199: Client ESP32_7d4660 disconnected due to protocol error.
+1794182215: New connection from 10.42.0.116:55044 on port 1883.
+1794182215: New client connected from 10.42.0.116:55044 as ESP32_7d4660 (p2, c1, k120).
+1794182220: Client ESP32_7d4660 disconnected due to protocol error.
+1794182236: New connection from 10.42.0.116:55045 on port 1883.
+1794182236: New client connected from 10.42.0.116:55045 as ESP32_7d4660 (p2, c1, k120).
+1794182243: Client ESP32_7d4660 disconnected due to protocol error.
+1794182259: New connection from 10.42.0.116:55046 on port 1883.
+1794182259: New client connected from 10.42.0.116:55046 as ESP32_7d4660 (p2, c1, k120).
+1794182273: Client ESP32_7d4660 disconnected due to protocol error.
+1794182289: New connection from 10.42.0.116:55047 on port 1883.
+1794182290: New client connected from 10.42.0.116:55047 as ESP32_7d4660 (p2, c1, k120).
+1794182294: Client ESP32_7d4660 disconnected due to protocol error.
+1794182312: New connection from 10.42.0.116:55048 on port 1883.
+1794182312: New client connected from 10.42.0.116:55048 as ESP32_7d4660 (p2, c1, k120).
+1794182357: Client ESP32_7d4660 disconnected due to protocol error.
+1794182373: New connection from 10.42.0.116:55049 on port 1883.
+1794182373: New client connected from 10.42.0.116:55049 as ESP32_7d4660 (p2, c1, k120).
+1794182395: Client ESP32_7d4660 disconnected due to protocol error.
+1794182412: New connection from 10.42.0.116:55050 on port 1883.
+1794182413: New client connected from 10.42.0.116:55050 as ESP32_7d4660 (p2, c1, k120).
+1794182493: Client ESP32_7d4660 disconnected due to protocol error.
+1794182515: New connection from 10.42.0.116:55051 on port 1883.
+1794182515: New client connected from 10.42.0.116:55051 as ESP32_7d4660 (p2, c1, k120).
+1794182523: Client ESP32_7d4660 disconnected due to protocol error.
+1794182543: New connection from 10.42.0.116:55052 on port 1883.
+1794182544: New client connected from 10.42.0.116:55052 as ESP32_7d4660 (p2, c1, k120).
+1794182555: Client ESP32_7d4660 disconnected due to protocol error.
+1794182573: New connection from 10.42.0.116:55053 on port 1883.
+1794182573: New client connected from 10.42.0.116:55053 as ESP32_7d4660 (p2, c1, k120).
+1794182583: Client ESP32_7d4660 disconnected due to protocol error.
+1794182608: New connection from 10.42.0.116:55054 on port 1883.
+1794182608: New client connected from 10.42.0.116:55054 as ESP32_7d4660 (p2, c1, k120).
+1794182616: Client ESP32_7d4660 disconnected due to protocol error.
+1794182632: New connection from 10.42.0.116:55055 on port 1883.
+1794182632: New client connected from 10.42.0.116:55055 as ESP32_7d4660 (p2, c1, k120).
+1794182636: Client ESP32_7d4660 disconnected due to protocol error.
+1794182653: New connection from 10.42.0.116:55056 on port 1883.
+1794182653: New client connected from 10.42.0.116:55056 as ESP32_7d4660 (p2, c1, k120).
+1794182661: Client ESP32_7d4660 closed its connection.
+1794183073: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794184471: Client auto-AEC70087-DCFC-78D5-67AE-98ABAE570C52 closed its connection.
+1794184471: mosquitto version 2.0.11 terminating
+1794184471: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794184479: mosquitto version 2.0.11 starting
+1794184479: Config loaded from /etc/mosquitto/mosquitto.conf.
+1794184479: Opening ipv4 listen socket on port 1883.
+1794184479: Opening ipv6 listen socket on port 1883.
+1794184479: mosquitto version 2.0.11 running
+1794186279: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794795850: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794797651: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794799452: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794801253: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794803026: New connection from 10.42.0.116:63737 on port 1883.
+1794803026: New client connected from 10.42.0.116:63737 as ESP32_7d4660 (p2, c1, k120).
+1794803054: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794803081: Client ESP32_7d4660 disconnected.
+1794803142: New connection from ::1:56651 on port 1883.
+1794803142: New client connected from ::1:56651 as auto-3C61774A-7286-CCB8-3FC0-874C16915EF8 (p2, c1, k60).
+1794803495: New connection from 10.42.0.116:63738 on port 1883.
+1794803495: New client connected from 10.42.0.116:63738 as ESP32_7d4660 (p2, c1, k120).
+1794803501: Client ESP32_7d4660 disconnected.
+1794803547: New connection from 10.42.0.116:63739 on port 1883.
+1794803547: New client connected from 10.42.0.116:63739 as ESP32_7d4660 (p2, c1, k120).
+1794803695: Client ESP32_7d4660 disconnected.
+1794803806: New connection from 10.42.0.116:63740 on port 1883.
+1794803806: New client connected from 10.42.0.116:63740 as ESP32_7d4660 (p2, c1, k120).
+1794803938: Client ESP32_7d4660 disconnected.
+1794804017: New connection from 10.42.0.116:63741 on port 1883.
+1794804017: New client connected from 10.42.0.116:63741 as ESP32_7d4660 (p2, c1, k120).
+1794804193: Client ESP32_7d4660 disconnected.
+1794804242: New connection from 10.42.0.116:63742 on port 1883.
+1794804242: New client connected from 10.42.0.116:63742 as ESP32_7d4660 (p2, c1, k120).
+1794804443: Client ESP32_7d4660 disconnected.
+1794804487: New connection from 10.42.0.116:63743 on port 1883.
+1794804487: New client connected from 10.42.0.116:63743 as ESP32_7d4660 (p2, c1, k120).
+1794804833: Client ESP32_7d4660 disconnected due to protocol error.
+1794804849: New connection from 10.42.0.116:63744 on port 1883.
+1794804849: New client connected from 10.42.0.116:63744 as ESP32_7d4660 (p2, c1, k120).
+1794804855: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794804906: Client ESP32_7d4660 disconnected.
+1794805041: New connection from 10.42.0.116:63745 on port 1883.
+1794805041: New client connected from 10.42.0.116:63745 as ESP32_7d4660 (p2, c1, k120).
+1794805166: Client ESP32_7d4660 disconnected.
+1794805175: New connection from 10.42.0.116:63746 on port 1883.
+1794805175: New client connected from 10.42.0.116:63746 as ESP32_7d4660 (p2, c1, k120).
+1794805325: Client ESP32_7d4660 disconnected.
+1794806656: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1794808457: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
