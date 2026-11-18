@@ -96,3 +96,32 @@ Measurements were obtained from individual benchmark runs. Latency statistics de
 The figures illustrate how different application-layer protocols respond to artificial network delay and packet loss.
 
 These results characterize the tested implementations and network setup rather than establishing universal performance rankings for HTTP, MQTT, or CoAP.
+
+## Reproducing the Corrected HTTP Keep-Alive Server
+
+The corrected HTTP Keep-Alive experiments used Waitress 3.0.2
+instead of Flask's development server.
+
+On Raspberry Pi 2, install Flask and Waitress:
+
+    python3 -m pip install flask==3.1.3 waitress==3.0.2
+
+Start the corrected HTTP echo server:
+
+    bash pi2/scripts/start_http_waitress.sh
+
+The server listens on port 8080 and provides the /echo endpoint.
+
+This launcher reproduces the intended corrected server configuration.
+The exact historical startup command was not retained.
+
+## Verified Firmware and Network Settings
+
+- ESP32 Wi-Fi power saving disabled using esp_wifi_set_ps(WIFI_PS_NONE).
+- MQTT QoS 2 retransmission timeout: 5000 milliseconds.
+- Network jitter: max(1, delay // 5) milliseconds.
+- C2 and C5: 50 ms delay with 10 ms jitter.
+- C6: 200 ms delay with 40 ms jitter.
+- Network impairments configured using Linux tc netem.
+
+Original measurements and corrected retests are retained separately.
