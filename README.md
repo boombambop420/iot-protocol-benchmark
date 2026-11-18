@@ -125,3 +125,32 @@ The exact historical startup command was not retained.
 - Network impairments configured using Linux tc netem.
 
 Original measurements and corrected retests are retained separately.
+
+## Original vs. Corrected Results
+
+The original and corrected summaries each contain 42 configurations
+(7 protocol variants across 6 network conditions).
+
+Exactly 12 configurations were updated:
+- HTTP Keep-Alive: C1 through C6
+- MQTT QoS 2: C1 through C6
+
+All other configurations retain their original measurements.
+
+Key corrected results:
+- HTTP Keep-Alive C6: 98/100 to 100/100 successful requests.
+- MQTT QoS 2 C3: 47/100 to 100/100 successful requests.
+- MQTT QoS 2 C6: 40/100 to 85/100 successful requests.
+- MQTT QoS 2 C6 median RTT: 1954.609 ms to 2734.167 ms.
+
+The corrected summary is stored at:
+data/original_results/benchmark_summary_corrected.csv
+
+The original summary remains available at:
+data/original_results/benchmark_summary.csv
+
+Corrected raw CSVs, packet captures, and run metadata are stored
+under data/corrected_retests/.
+
+These comparisons reflect the observed experiment, not a universal
+ranking of protocol performance.
